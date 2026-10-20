@@ -1,0 +1,18 @@
+# Python 3.12
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+scikit-learn==1.5.2
+numba==0.60.0
+optuna==4.0.0
+neuroCombat==0.2.12
+xgboost==2.1.1
+lightgbm==4.6.0
+matplotlib==3.10.6
+pillow==11.0.0
+
+# extraction/ only (feature extraction and image checks from CT images, which are not shared)
+# pyradiomics @ git+https://github.com/AIM-Harvard/pyradiomics@9b1e030
+# SimpleITK==2.4.0
+# PyYAML==6.0.2
+# scikit-image==0.24.0

@@ -1,0 +1,104 @@
+{
+  "bootstraps": 2000,
+  "models": [
+    {
+      "model": "EN",
+      "apparent_auc": 0.7824875621890547,
+      "auc_632plus": 0.7609300652465492,
+      "ci_low": 0.6779554246137929,
+      "ci_high": 0.8158807351477905,
+      "mean_oob_auc": 0.7527689677658209,
+      "delta_vs_en": 0.0,
+      "delta_ci": [
+        0.0,
+        0.0
+      ],
+      "full_cohort_hyperparameters": "final model"
+    },
+    {
+      "model": "L2-LR",
+      "apparent_auc": 0.7820895522388059,
+      "auc_632plus": 0.760105443799001,
+      "ci_low": 0.6773623268382509,
+      "ci_high": 0.815325582474033,
+      "mean_oob_auc": 0.7516327847285091,
+      "delta_vs_en": -0.0008246214475479861,
+      "delta_ci": [
+        -0.03140896341621698,
+        0.008453607659604555
+      ],
+      "full_cohort_hyperparameters": {
+        "C": 1.0
+      }
+    },
+    {
+      "model": "SVM",
+      "apparent_auc": 0.9205970149253732,
+      "auc_632plus": 0.6907746124719519,
+      "ci_low": 0.5103186661760702,
+      "ci_high": 0.8081162578678519,
+      "mean_oob_auc": 0.654830377703702,
+      "delta_vs_en": -0.07015545277459717,
+      "delta_ci": [
+        -0.23639394644656897,
+        0.03340767859253114
+      ],
+      "full_cohort_hyperparameters": {
+        "C": 10.0,
+        "gamma": "scale"
+      }
+    },
+    {
+      "model": "RF",
+      "apparent_auc": 0.862089552238806,
+      "auc_632plus": 0.7242973608544552,
+      "ci_low": 0.5817120430630734,
+      "ci_high": 0.8294895817507115,
+      "mean_oob_auc": 0.6795334612878662,
+      "delta_vs_en": -0.03663270439209393,
+      "delta_ci": [
+        -0.1521851629172558,
+        0.05076485508593201
+      ],
+      "full_cohort_hyperparameters": {
+        "max_depth": 2,
+        "min_samples_leaf": 2
+      }
+    },
+    {
+      "model": "XGB",
+      "apparent_auc": 0.8607960199004975,
+      "auc_632plus": 0.7096241732377491,
+      "ci_low": 0.5489079843889239,
+      "ci_high": 0.8203820367314258,
+      "mean_oob_auc": 0.6653392045182192,
+      "delta_vs_en": -0.0513058920088,
+      "delta_ci": [
+        -0.179137976650137,
+        0.043974599308508514
+      ],
+      "full_cohort_hyperparameters": {
+        "learning_rate": 0.03,
+        "max_depth": 1
+      }
+    },
+    {
+      "model": "LGBM",
+      "apparent_auc": 0.9493532338308457,
+      "auc_632plus": 0.7063264019884824,
+      "ci_low": 0.556157170046224,
+      "ci_high": 0.8314253693822357,
+      "mean_oob_auc": 0.6584151333389834,
+      "delta_vs_en": -0.05460366325806672,
+      "delta_ci": [
+        -0.18978874131852316,
+        0.05447421866654747
+      ],
+      "full_cohort_hyperparameters": {
+        "min_child_samples": 10,
+        "num_leaves": 3
+      }
+    }
+  ],
+  "minutes": 22.7
+}

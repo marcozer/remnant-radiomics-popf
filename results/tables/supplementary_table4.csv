@@ -1,0 +1,9 @@
+Risk group,"Low risk, probability <0.0985",Intermediate risk,"High risk, probability ≥0.4015"
+Study cohort (251 patients),,,
+"Patients, n (%)",83 (33.1%),134 (53.4%),34 (13.5%)
+"CR-POPF, n (% of the group)",1 (1.2%),32 (23.9%),17 (50.0%)
+Share of all CR-POPF,2.0%,64.0%,34.0%
+"Left-out patients, median (95% interval)",,,
+Patients,29.3% (15.9–45.1),59.6% (40.6–78.1),11.2% (1.1–22.5)
+CR-POPF rate in the group,3.1% (0.0–13.7),23.1% (15.0–31.4),47.1% (14.3–100.0)
+Share of all CR-POPF,5.0% (0.0–26.3),68.4% (40.0–95.2),25.0% (0.0–50.0)

@@ -1,0 +1,28 @@
+{
+  "complete_case_patients": 251,
+  "complete_case_events": 50,
+  "excluded_missing_covariates": 0,
+  "excluded_events": 0,
+  "refit_tuning": {
+    "5-rad + MPD/thickness": {
+      "optuna_seed": 7,
+      "C": 0.3185882419310071,
+      "l1_ratio": 0.39403392640652984,
+      "cv_auc_5x10": 0.7447339524253056
+    },
+    "5-rad + DISPAIR covariates": {
+      "optuna_seed": 7,
+      "C": 0.3707067386416177,
+      "l1_ratio": 0.7949193394774031,
+      "cv_auc_5x10": 0.7354053907438173
+    },
+    "rD-FRS": {
+      "method": "unpenalized logistic regression"
+    },
+    "rDISPAIR-FRS": {
+      "method": "unpenalized logistic regression"
+    }
+  },
+  "bootstraps": 2000,
+  "minutes": 23.8
+}

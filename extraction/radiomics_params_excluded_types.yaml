@@ -1,0 +1,37 @@
+# The six image types extracted with the same settings and excluded before any modeling (data/excluded_image_types.csv,
+# 558 features; README, section 4). LBP2D codes are categorical (0-9) and are discretized with bin width 1.
+setting:
+  resampledPixelSpacing: [1.0, 1.0, 0]
+  interpolator: sitkBSpline
+  padDistance: 10
+  preCrop: true
+  correctMask: true
+  geometryTolerance: 0.001
+  force2D: true
+  force2Ddimension: 0
+  binWidth: 25
+  normalize: false
+  normalizeScale: 100
+  voxelArrayShift: 0
+  symmetricalGLCM: true
+  distances: [1]
+  minimumROIDimensions: 2
+  minimumROISize: 10
+  label: 1
+
+imageType:
+  Square: {}
+  SquareRoot: {}
+  Logarithm: {}
+  Exponential: {}
+  Gradient: {}
+  LBP2D:
+    binWidth: 1
+
+featureClass:
+  firstorder: []
+  glcm: []
+  glrlm: []
+  glszm: []
+  gldm: []
+  ngtdm: []

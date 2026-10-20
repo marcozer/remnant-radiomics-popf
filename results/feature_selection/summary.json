@@ -1,0 +1,53 @@
+{
+  "patients": 251,
+  "events": 50,
+  "stabl_runs": 50,
+  "subsamples_per_run": 1000,
+  "extracted": 758,
+  "after_prefilter": 84,
+  "signature": [
+    "log-sigma-5-0-mm-3D_firstorder_Kurtosis",
+    "log-sigma-7-0-mm-3D_ngtdm_Busyness",
+    "wavelet-LH_firstorder_Mean",
+    "wavelet-HL_gldm_DependenceVariance",
+    "wavelet-HH_firstorder_Median"
+  ],
+  "signature_size": 5,
+  "signature_rule": "the k most stable features (mean stability over the STABL runs), k chosen by inner cross-validation",
+  "inner_cv": {
+    "best_k": 5,
+    "inner_auc": {
+      "3": 0.6541890547263681,
+      "4": 0.6838308457711444,
+      "5": 0.7170248756218905,
+      "6": 0.7015621890547263,
+      "7": 0.7123681592039801,
+      "8": 0.7115522388059701,
+      "9": 0.7034726368159203,
+      "10": 0.702407960199005
+    },
+    "splits": 5,
+    "repeats": 10,
+    "stabl_runs": 5,
+    "optuna_trials": 50,
+    "optuna_cv_repeats": 2,
+    "design": "stratified 5-fold x 10 repeats (seed 2026); ComBat, prefilter and STABL (5 runs x 1,000 subsamples) refitted on each inner training part; elastic net tuned by Optuna (50 trials, grouped 5-fold CV x 2) on the top-k features, k = 3..10; highest pooled inner AUC, smallest k on ties"
+  },
+  "by_family": {
+    "extracted": {
+      "Original": 107,
+      "LoG-filtered": 279,
+      "Wavelet-filtered": 372
+    },
+    "after_prefilter": {
+      "Original": 9,
+      "LoG-filtered": 30,
+      "Wavelet-filtered": 45
+    },
+    "signature": {
+      "Original": 0,
+      "LoG-filtered": 2,
+      "Wavelet-filtered": 3
+    }
+  }
+}

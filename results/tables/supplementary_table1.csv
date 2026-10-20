@@ -1,0 +1,13 @@
+Manufacturer,Model,No. of Scans,kVp Range,Exposure Time (ms),Tube Current (mA),Slice Thickness (mm),Pixel Spacing (mm)
+GE Medical Systems,Revolution HD,129,100–140,600–699,149–449,1.25,0.641–0.977
+GE Medical Systems,Revolution Apex,29,100–140,300–700,145–515,0.625–1.25,0.682–0.977
+GE Medical Systems,Revolution EVO / CT / Frontier / Maxima,33,100–140,280–730,113–600,1.25,0.617–0.977
+GE Medical Systems,Optima CT540 / CT660,8,120,501–707,118–324,1.25,0.625–0.805
+GE Medical Systems,Discovery CT750 HD / RT,4,100–120,699–19350,118–338,1.25,0.730–0.857
+Siemens Healthineers,SOMATOM go.All / go.Top,10,70–100,416–625,74–472,1.00–2.00,0.618–0.977
+Siemens Healthineers,SOMATOM Definition AS / AS+ / Edge,6,100,500,79–215,1.00–3.00,0.738–0.975
+Siemens Healthineers,SOMATOM Drive / Force / X.cite,4,90–140,500–833,162–482,1.00–2.00,0.592–0.902
+Siemens Healthineers,SOMATOM Scope / Perspective / Emotion 16,5,110–130,600,23–85,1.50,0.684–0.953
+Philips Healthcare,Ingenuity CT,9,120,300–1344,197–310,1.50–2.00,0.631–0.977
+Philips Healthcare,Incisive CT,2,120,5863–11087,108–131,2.00,0.721–0.977
+Canon / Toshiba,"Aquilion Series (ONE, PRIME, Prime SP, Serve SP, Lightning)",12,80–120,350–500,82–424,1.00–2.00,0.698–0.954

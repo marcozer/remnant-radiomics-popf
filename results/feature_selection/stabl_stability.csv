@@ -1,0 +1,85 @@
+feature,family,display_name,mean_stability
+log-sigma-7-0-mm-3D_ngtdm_Busyness,LoG-filtered,LoG 7 mm NGTDM busyness,1.0
+wavelet-HH_firstorder_Median,Wavelet-filtered,Wavelet HH first-order median,0.9997799999999999
+wavelet-HL_gldm_DependenceVariance,Wavelet-filtered,Wavelet HL GLDM dependence variance,0.99862
+log-sigma-5-0-mm-3D_firstorder_Kurtosis,LoG-filtered,LoG 5 mm first-order kurtosis,0.9985199999999999
+wavelet-LH_firstorder_Mean,Wavelet-filtered,Wavelet LH first-order mean,0.9941200000000001
+wavelet-HL_glcm_MCC,Wavelet-filtered,Wavelet HL GLCM MCC,0.7944799999999997
+original_shape_Maximum2DDiameterRow,Original,Shape maximum 2D diameter (row),0.7607000000000003
+wavelet-HL_glszm_ZoneEntropy,Wavelet-filtered,Wavelet HL GLSZM zone entropy,0.68866
+wavelet-LL_firstorder_Skewness,Wavelet-filtered,Wavelet LL first-order skewness,0.6846199999999999
+log-sigma-7-0-mm-3D_firstorder_Median,LoG-filtered,LoG 7 mm first-order median,0.6306999999999999
+original_shape_Maximum2DDiameterColumn,Original,Shape maximum 2D diameter (column),0.61254
+log-sigma-7-0-mm-3D_glszm_LargeAreaEmphasis,LoG-filtered,LoG 7 mm GLSZM large area emphasis,0.60172
+log-sigma-5-0-mm-3D_glrlm_RunLengthNonUniformity,LoG-filtered,LoG 5 mm GLRLM run-length non-uniformity,0.5964200000000001
+log-sigma-7-0-mm-3D_firstorder_Kurtosis,LoG-filtered,LoG 7 mm first-order kurtosis,0.5758200000000001
+log-sigma-5-0-mm-3D_firstorder_Maximum,LoG-filtered,LoG 5 mm first-order maximum,0.5397000000000002
+wavelet-HH_ngtdm_Busyness,Wavelet-filtered,Wavelet HH NGTDM busyness,0.4982000000000001
+log-sigma-3-0-mm-3D_glszm_ZoneEntropy,LoG-filtered,LoG 3 mm GLSZM zone entropy,0.48767999999999995
+log-sigma-5-0-mm-3D_glcm_ClusterShade,LoG-filtered,LoG 5 mm GLCM cluster shade,0.4825200000000001
+log-sigma-5-0-mm-3D_glszm_ZoneEntropy,LoG-filtered,LoG 5 mm GLSZM zone entropy,0.45616000000000007
+wavelet-HH_glszm_ZoneEntropy,Wavelet-filtered,Wavelet HH GLSZM zone entropy,0.4451199999999998
+log-sigma-7-0-mm-3D_firstorder_90Percentile,LoG-filtered,LoG 7 mm first-order 90th percentile,0.4417000000000001
+log-sigma-5-0-mm-3D_glszm_LargeAreaLowGrayLevelEmphasis,LoG-filtered,LoG 5 mm GLSZM large area low gray-level emphasis,0.43755999999999984
+wavelet-HL_firstorder_Mean,Wavelet-filtered,Wavelet HL first-order mean,0.4371200000000002
+wavelet-LL_firstorder_10Percentile,Wavelet-filtered,Wavelet LL first-order 10th percentile,0.4317400000000001
+original_shape_MinorAxisLength,Original,Shape minor axis length,0.4153
+wavelet-LL_glszm_ZoneEntropy,Wavelet-filtered,Wavelet LL GLSZM zone entropy,0.40528
+original_shape_VoxelVolume,Original,Shape voxel volume,0.39230000000000004
+wavelet-LL_firstorder_90Percentile,Wavelet-filtered,Wavelet LL first-order 90th percentile,0.38571999999999995
+log-sigma-7-0-mm-3D_firstorder_Maximum,LoG-filtered,LoG 7 mm first-order maximum,0.3485000000000001
+wavelet-LH_glcm_MCC,Wavelet-filtered,Wavelet LH GLCM MCC,0.3151400000000002
+original_shape_Maximum2DDiameterSlice,Original,Shape maximum 2D diameter (slice),0.3134399999999999
+wavelet-HH_firstorder_Mean,Wavelet-filtered,Wavelet HH first-order mean,0.31187999999999994
+log-sigma-7-0-mm-3D_gldm_LargeDependenceHighGrayLevelEmphasis,LoG-filtered,LoG 7 mm GLDM large dependence high gray-level emphasis,0.30761999999999995
+log-sigma-7-0-mm-3D_firstorder_TotalEnergy,LoG-filtered,LoG 7 mm first-order total energy,0.29216
+log-sigma-7-0-mm-3D_glszm_ZoneEntropy,LoG-filtered,LoG 7 mm GLSZM zone entropy,0.2839999999999999
+original_shape_LeastAxisLength,Original,Shape least axis length,0.2811
+wavelet-HH_glrlm_RunLengthNonUniformity,Wavelet-filtered,Wavelet HH GLRLM run-length non-uniformity,0.27706
+log-sigma-7-0-mm-3D_glszm_SmallAreaHighGrayLevelEmphasis,LoG-filtered,LoG 7 mm GLSZM small area high gray-level emphasis,0.26519999999999994
+wavelet-LH_glszm_LargeAreaHighGrayLevelEmphasis,Wavelet-filtered,Wavelet LH GLSZM large area high gray-level emphasis,0.26308
+original_firstorder_Kurtosis,Original,Original first-order kurtosis,0.26146
+log-sigma-3-0-mm-3D_firstorder_Maximum,LoG-filtered,LoG 3 mm first-order maximum,0.2516400000000001
+wavelet-HL_glszm_LargeAreaEmphasis,Wavelet-filtered,Wavelet HL GLSZM large area emphasis,0.24024000000000004
+wavelet-HH_firstorder_Skewness,Wavelet-filtered,Wavelet HH first-order skewness,0.22991999999999999
+wavelet-HL_ngtdm_Busyness,Wavelet-filtered,Wavelet HL NGTDM busyness,0.21902000000000008
+wavelet-HL_glcm_ClusterShade,Wavelet-filtered,Wavelet HL GLCM cluster shade,0.21230000000000002
+log-sigma-5-0-mm-3D_glszm_LargeAreaHighGrayLevelEmphasis,LoG-filtered,LoG 5 mm GLSZM large area high gray-level emphasis,0.19997999999999996
+wavelet-LH_glcm_ClusterShade,Wavelet-filtered,Wavelet LH GLCM cluster shade,0.19570000000000004
+wavelet-LL_glszm_LargeAreaHighGrayLevelEmphasis,Wavelet-filtered,Wavelet LL GLSZM large area high gray-level emphasis,0.19283999999999998
+original_gldm_GrayLevelNonUniformity,Original,Original GLDM gray-level non-uniformity,0.1928
+log-sigma-7-0-mm-3D_glszm_SizeZoneNonUniformity,LoG-filtered,LoG 7 mm GLSZM size zone non-uniformity,0.18752
+wavelet-HH_firstorder_TotalEnergy,Wavelet-filtered,Wavelet HH first-order total energy,0.18212
+wavelet-LL_firstorder_TotalEnergy,Wavelet-filtered,Wavelet LL first-order total energy,0.18166000000000002
+wavelet-HH_glszm_LargeAreaEmphasis,Wavelet-filtered,Wavelet HH GLSZM large area emphasis,0.18155999999999992
+wavelet-HH_glcm_MCC,Wavelet-filtered,Wavelet HH GLCM MCC,0.17214000000000002
+log-sigma-3-0-mm-3D_firstorder_Kurtosis,LoG-filtered,LoG 3 mm first-order kurtosis,0.16996
+wavelet-HH_glcm_ClusterShade,Wavelet-filtered,Wavelet HH GLCM cluster shade,0.16982
+log-sigma-7-0-mm-3D_firstorder_InterquartileRange,LoG-filtered,LoG 7 mm first-order interquartile range,0.16605999999999999
+wavelet-LL_ngtdm_Complexity,Wavelet-filtered,Wavelet LL NGTDM complexity,0.16602000000000003
+log-sigma-7-0-mm-3D_glcm_ClusterShade,LoG-filtered,LoG 7 mm GLCM cluster shade,0.15871999999999997
+wavelet-LL_glcm_ClusterShade,Wavelet-filtered,Wavelet LL GLCM cluster shade,0.15639999999999996
+wavelet-LL_glcm_ClusterProminence,Wavelet-filtered,Wavelet LL GLCM cluster prominence,0.14974
+log-sigma-3-0-mm-3D_ngtdm_Strength,LoG-filtered,LoG 3 mm NGTDM strength,0.14094
+log-sigma-3-0-mm-3D_glcm_ClusterShade,LoG-filtered,LoG 3 mm GLCM cluster shade,0.12794000000000003
+log-sigma-5-0-mm-3D_gldm_LargeDependenceHighGrayLevelEmphasis,LoG-filtered,LoG 5 mm GLDM large dependence high gray-level emphasis,0.12664
+wavelet-LH_gldm_LargeDependenceHighGrayLevelEmphasis,Wavelet-filtered,Wavelet LH GLDM large dependence high gray-level emphasis,0.11837999999999997
+wavelet-LL_firstorder_Variance,Wavelet-filtered,Wavelet LL first-order variance,0.11301999999999998
+log-sigma-3-0-mm-3D_glcm_ClusterProminence,LoG-filtered,LoG 3 mm GLCM cluster prominence,0.10657999999999998
+wavelet-LL_firstorder_Maximum,Wavelet-filtered,Wavelet LL first-order maximum,0.10224
+log-sigma-7-0-mm-3D_glszm_LargeAreaHighGrayLevelEmphasis,LoG-filtered,LoG 7 mm GLSZM large area high gray-level emphasis,0.09312000000000001
+log-sigma-3-0-mm-3D_gldm_LargeDependenceHighGrayLevelEmphasis,LoG-filtered,LoG 3 mm GLDM large dependence high gray-level emphasis,0.09292
+original_gldm_LargeDependenceHighGrayLevelEmphasis,Original,Original GLDM large dependence high gray-level emphasis,0.09206000000000004
+wavelet-LL_glcm_Autocorrelation,Wavelet-filtered,Wavelet LL GLCM autocorrelation,0.09171999999999998
+log-sigma-7-0-mm-3D_glcm_ClusterProminence,LoG-filtered,LoG 7 mm GLCM cluster prominence,0.08749999999999998
+wavelet-HH_firstorder_Range,Wavelet-filtered,Wavelet HH first-order range,0.08652000000000001
+wavelet-LH_firstorder_TotalEnergy,Wavelet-filtered,Wavelet LH first-order total energy,0.08213999999999999
+wavelet-LL_gldm_LargeDependenceHighGrayLevelEmphasis,Wavelet-filtered,Wavelet LL GLDM large dependence high gray-level emphasis,0.0709
+wavelet-HH_firstorder_Kurtosis,Wavelet-filtered,Wavelet HH first-order kurtosis,0.06792
+wavelet-LL_firstorder_Minimum,Wavelet-filtered,Wavelet LL first-order minimum,0.038339999999999985
+wavelet-LH_firstorder_Kurtosis,Wavelet-filtered,Wavelet LH first-order kurtosis,0.03725999999999999
+wavelet-HL_glszm_LargeAreaHighGrayLevelEmphasis,Wavelet-filtered,Wavelet HL GLSZM large area high gray-level emphasis,0.036739999999999995
+wavelet-HH_gldm_LargeDependenceHighGrayLevelEmphasis,Wavelet-filtered,Wavelet HH GLDM large dependence high gray-level emphasis,0.014100000000000003
+wavelet-HH_glszm_LargeAreaHighGrayLevelEmphasis,Wavelet-filtered,Wavelet HH GLSZM large area high gray-level emphasis,0.011640000000000001
+wavelet-HL_firstorder_Kurtosis,Wavelet-filtered,Wavelet HL first-order kurtosis,0.008239999999999999
+wavelet-HL_gldm_LargeDependenceHighGrayLevelEmphasis,Wavelet-filtered,Wavelet HL GLDM large dependence high gray-level emphasis,0.003580000000000001

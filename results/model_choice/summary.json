@@ -1,0 +1,58 @@
+{
+  "design": "outer stratified 5-fold x 20 (seed 20261008), ComBat and tuning in the outer training folds",
+  "reference": "EN (Optuna, AUC)",
+  "models": {
+    "L2-LR (log-loss)": {
+      "log_loss": 0.4375627497945386,
+      "brier": 0.14064409731170846,
+      "auc": 0.758223880597015,
+      "slope": 0.8614544256707493,
+      "auc_sd": 0.010242895997673895,
+      "log_loss_difference_vs_reference": -0.003147267725051045,
+      "log_loss_difference_sd": 0.001806209475227499,
+      "share_of_repeats_with_lower_log_loss": 1.0,
+      "C_median": 0.3981071705534973,
+      "C_range": [
+        0.25118864315095824,
+        1.0
+      ],
+      "l1_ratio_median": 0.0,
+      "folds_with_l1_ratio_0": 1.0
+    },
+    "EN (Optuna, AUC)": {
+      "log_loss": 0.4407100175195895,
+      "brier": 0.14175152380338804,
+      "auc": 0.7603383084577116,
+      "slope": 0.7426593055845129,
+      "auc_sd": 0.010046893835444853,
+      "log_loss_difference_vs_reference": 0.0,
+      "log_loss_difference_sd": 0.0,
+      "share_of_repeats_with_lower_log_loss": 0.0,
+      "C_median": 44.0202381552922,
+      "C_range": [
+        1.6553113363665393,
+        98.69235185640343
+      ],
+      "l1_ratio_median": 0.22847989736326357,
+      "folds_with_l1_ratio_0": 0.0
+    },
+    "EN (log-loss)": {
+      "log_loss": 0.4375627497945386,
+      "brier": 0.14064409731170846,
+      "auc": 0.758223880597015,
+      "slope": 0.8614544256707493,
+      "auc_sd": 0.010242895997673895,
+      "log_loss_difference_vs_reference": -0.003147267725051045,
+      "log_loss_difference_sd": 0.001806209475227499,
+      "share_of_repeats_with_lower_log_loss": 1.0,
+      "C_median": 0.3981071705534973,
+      "C_range": [
+        0.25118864315095824,
+        1.0
+      ],
+      "l1_ratio_median": 0.0,
+      "folds_with_l1_ratio_0": 1.0
+    }
+  },
+  "minutes": 4.8
+}

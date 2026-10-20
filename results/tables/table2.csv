@@ -1,0 +1,10 @@
+Term,Coefficient,Predictor mean,Predictor SD
+Intercept,-1.708488,-,-
+log-sigma-5-0-mm-3D_firstorder_Kurtosis,0.539719,4.62328,2.97126
+log-sigma-7-0-mm-3D_ngtdm_Busyness,0.798247,46.3483,31.3036
+wavelet-LH_firstorder_Mean,0.491048,0.108893,1.3718
+wavelet-HL_gldm_DependenceVariance,0.488484,2.82315,0.228992
+wavelet-HH_firstorder_Median,-0.774567,-0.0315972,0.21715
+Calibration-in-the-large (apparent),0.000,-,-
+Calibration slope (apparent),1.003,-,-
+"Calibration slope (bootstrap optimism-corrected, 95% range)",0.834 (0.556–1.159),-,-

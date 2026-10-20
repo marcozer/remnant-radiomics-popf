@@ -1,0 +1,36 @@
+# PyRadiomics settings of data/radiomics.csv (758 features): head-isthmus mask, 2D texture on native axial slices,
+# 1 mm in-plane B-spline resampling, fixed bin width 25 HU, no intensity normalization.
+setting:
+  resampledPixelSpacing: [1.0, 1.0, 0]  # 0: native slice spacing kept
+  interpolator: sitkBSpline
+  padDistance: 10
+  preCrop: true
+  correctMask: true
+  geometryTolerance: 0.001
+  force2D: true
+  force2Ddimension: 0  # axial slices
+  binWidth: 25
+  normalize: false
+  normalizeScale: 100
+  voxelArrayShift: 0
+  symmetricalGLCM: true
+  distances: [1]
+  minimumROIDimensions: 2
+  minimumROISize: 10
+  label: 1
+
+imageType:
+  Original: {}
+  LoG:
+    sigma: [3.0, 5.0, 7.0]
+  Wavelet:
+    wavelet: db1  # Haar
+
+featureClass:
+  shape: []
+  firstorder: []
+  glcm: []
+  glrlm: []
+  glszm: []
+  gldm: []
+  ngtdm: []

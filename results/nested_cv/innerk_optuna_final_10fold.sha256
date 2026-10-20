@@ -1,0 +1,5 @@
+0851b7d2be82dbe0926cc630155490c8803221414291567925b4eff0aaf80ee8  cohort.csv
+474c082a6feb503c66651180d7efab83ad416a8ca260ba51d71eb5d4cb6de906  radiomics.csv
+stabl runs 50, outer rankings
+inner k: stratified 5-fold x 2 repeats, stabl runs 5, k 3..10, inner elastic net optuna 50 trials x 2 cv repeats
+outer elastic net tuned as the final model (seeds (7, 11, 13, 17, 19), 5-fold x 10), optuna trials 100

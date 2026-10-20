@@ -1,0 +1,26 @@
+{
+ "period": "2019–2025",
+ "records": 274,
+ "duplicates": 3,
+ "screened": 271,
+ "excluded": {
+  "clinical": {
+   "Appleby procedure": 3,
+   "Completion pancreatectomy": 2,
+   "Completion total pancreatectomy": 4
+  },
+  "imaging": {
+   "Slice thickness or spacing > 3 mm": 3,
+   "No preoperative CT available": 2,
+   "Arterial phase only": 3,
+   "Stacked acquisition": 1,
+   "Extreme image noise": 1,
+   "Unenhanced CT only": 1
+  }
+ },
+ "patients": 251,
+ "cr_popf": 50,
+ "grade_b": 43,
+ "grade_c": 7,
+ "biochemical_leak": 94
+}

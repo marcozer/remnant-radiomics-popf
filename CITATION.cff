@@ -1,0 +1,64 @@
+cff-version: 1.2.0
+message: "Please cite the article (reference to be added on publication) and this repository."
+type: software
+title: "5-rad: CT radiomics of the future pancreatic remnant and CR-POPF after distal pancreatectomy"
+abstract: >-
+  Code, de-identified data and results of the single-center study "Preoperative Prediction of Postoperative Pancreatic
+  Fistula After Distal Pancreatectomy Using a Sparse Radiomic Signature of the Pancreatic Remnant" (Beaujon Hospital,
+  AP-HP, Clichy, France). In 251 patients who underwent distal pancreatectomy in 2019-2025 (50 clinically relevant
+  postoperative pancreatic fistulas, ISGPS grade B or C), radiomic features of the future pancreatic remnant
+  (head-isthmus region) on preoperative portal venous CT were harmonized with ComBat, prefiltered without the outcome and
+  selected with Stabl; an elastic-net logistic regression on five features (5-rad) was validated internally by bootstrap
+  .632+ and strict nested cross-validation, compared with the D-FRS and DISPAIR-FRS, and used to define rule-out and
+  rule-in risk groups. run_all.sh, or the Docker image, regenerates Tables 1-2, Supplementary Tables 1 and 4, Figures 1
+  and 3-5 and Supplementary Figures 1-3 from the de-identified radiomic-feature and clinical tables in data/. CT images and
+  segmentation masks are not included.
+license: MIT
+keywords:
+  - radiomics
+  - computed tomography
+  - distal pancreatectomy
+  - postoperative pancreatic fistula
+  - CR-POPF
+  - prediction model
+  - stability selection
+  - Stabl
+  - elastic net
+  - ComBat harmonization
+  - PyRadiomics
+  - internal validation
+# ORCIDs to confirm: replace each commented orcid line with the author's ORCID and uncomment it, or delete it.
+authors:
+  - family-names: Chouillard
+    given-names: Marc-Anthony
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France; Centre de Recherche sur l'Inflammation, INSERM Unité Mixte de Recherche 1149, Faculté de Médecine, Université Paris Cité, Clichy, France"
+  - family-names: Gregory
+    given-names: Jules
+    affiliation: "Université Paris Cité, FHU MOSAIC2, AP-HP Hôpital Beaujon, Department of Radiology, CRI INSERM 1149, 92110 Clichy, France"
+  - family-names: Pastier
+    given-names: Clément
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France"
+  - family-names: Bertrand
+    given-names: Thibaud
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France"
+  - family-names: Durand
+    given-names: Xavier
+    affiliation: "École Polytechnique, Institut Polytechnique de Paris, Paris, France"
+  - family-names: Husson
+    given-names: Thomas
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France"
+  - family-names: Dokmak
+    given-names: Safi
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France; Centre de Recherche sur l'Inflammation, INSERM Unité Mixte de Recherche 1149, Faculté de Médecine, Université Paris Cité, Clichy, France"
+  - family-names: Lesurtel
+    given-names: Mickaël
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France; Centre de Recherche sur l'Inflammation, INSERM Unité Mixte de Recherche 1149, Faculté de Médecine, Université Paris Cité, Clichy, France"
+  - family-names: Sauvanet
+    given-names: Alain
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France; Centre de Recherche sur l'Inflammation, INSERM Unité Mixte de Recherche 1149, Faculté de Médecine, Université Paris Cité, Clichy, France"
+  - family-names: Ronot
+    given-names: Maxime
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France; Centre de Recherche sur l'Inflammation, INSERM Unité Mixte de Recherche 1149, Faculté de Médecine, Université Paris Cité, Clichy, France"
+  - family-names: Hobeika
+    given-names: Christian
+    affiliation: "Department of Hepato-Pancreato-Biliary Surgery and Liver Transplantation, Beaujon Hospital, Assistance Publique-Hôpitaux de Paris, University of Paris Cité, Clichy, France; Centre de Recherche sur l'Inflammation, INSERM Unité Mixte de Recherche 1149, Faculté de Médecine, Université Paris Cité, Clichy, France"

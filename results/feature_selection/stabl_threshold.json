@@ -1,0 +1,112 @@
+{
+  "patients": 251,
+  "events": 50,
+  "features": 84,
+  "pipeline_settings": {
+    "runs": 50,
+    "empty_panels": 47,
+    "panel_sizes": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      5,
+      0,
+      0
+    ],
+    "min_fdp_plus_median": 1.0119047619047619,
+    "min_fdp_plus_range": [
+      0.8,
+      1.0759493670886076
+    ],
+    "median_stability_real": 0.19575,
+    "median_stability_artificial": 0.685,
+    "max_artificial_range": [
+      0.998,
+      1.0
+    ],
+    "selection_count": {
+      "log-sigma-5-0-mm-3D_firstorder_Kurtosis": 3,
+      "log-sigma-7-0-mm-3D_ngtdm_Busyness": 3,
+      "wavelet-LH_firstorder_Mean": 3,
+      "wavelet-HL_gldm_DependenceVariance": 3,
+      "wavelet-HH_firstorder_Median": 3
+    }
+  },
+  "stabl_package_defaults": {
+    "runs": 10,
+    "empty_panels": 0,
+    "panel_sizes": [
+      2,
+      3,
+      2,
+      3,
+      3,
+      2,
+      3,
+      2,
+      4,
+      3
+    ],
+    "min_fdp_plus_median": 0.5833333333333333,
+    "min_fdp_plus_range": [
+      0.3333333333333333,
+      1.0
+    ],
+    "median_stability_real": 0.13275,
+    "median_stability_artificial": 0.478,
+    "max_artificial_range": [
+      0.82,
+      0.989
+    ],
+    "selection_count": {
+      "log-sigma-7-0-mm-3D_ngtdm_Busyness": 10,
+      "wavelet-HH_firstorder_Median": 9,
+      "wavelet-HL_gldm_DependenceVariance": 6,
+      "wavelet-LH_firstorder_Mean": 2
+    }
+  }
+}

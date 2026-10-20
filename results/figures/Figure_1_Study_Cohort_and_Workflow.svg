@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="774.4pt" height="988.68pt" viewBox="0 0 774.4 988.68" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.6, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 988.68 
+L 774.4 988.68 
+L 774.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 39.2 95.32 
+L 425.2 95.32 
+Q 437.2 95.32 437.2 83.32 
+L 437.2 31.2 
+Q 437.2 19.2 425.2 19.2 
+L 39.2 19.2 
+Q 27.2 19.2 27.2 31.2 
+L 27.2 83.32 
+Q 27.2 95.32 39.2 95.32 
+z
+" clip-path="url(#p66225229ac)" style="fill: #eceff4; stroke: #6b7a8f; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 459.2 208 
+L 735.2 208 
+Q 747.2 208 747.2 196 
+L 747.2 133.32 
+Q 747.2 121.32 735.2 121.32 
+L 459.2 121.32 
+Q 447.2 121.32 447.2 133.32 
+L 447.2 196 
+Q 447.2 208 459.2 208 
+z
+" clip-path="url(#p66225229ac)" style="fill: #ffffff; stroke: #9aa5b8; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 459.2 356.2 
+L 735.2 356.2 
+Q 747.2 356.2 747.2 344.2 
+L 747.2 234 
+Q 747.2 222 735.2 222 
+L 459.2 222 
+Q 447.2 222 447.2 234 
+L 447.2 344.2 
+Q 447.2 356.2 459.2 356.2 
+z
+" clip-path="url(#p66225229ac)" style="fill: #ffffff; stroke: #9aa5b8; stroke-width: 1.6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 39.2 441.82 
+L 425.2 441.82 
+Q 437.2 441.82 437.2 429.82 
+L 437.2 394.2 
+Q 437.2 382.2 425.2 382.2 
+L 39.2 382.2 
+Q 27.2 382.2 27.2 394.2 
+L 27.2 429.82 
+Q 27.2 441.82 39.2 441.82 
+z
+" clip-path="url(#p66225229ac)" style="fill: #eceff4; stroke: #6b7a8f; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 39.2 539.26 
+L 425.2 539.26 
+Q 437.2 539.26 437.2 527.26 
+L 437.2 473.82 
+Q 437.2 461.82 425.2 461.82 
+L 39.2 461.82 
+Q 27.2 461.82 27.2 473.82 
+L 27.2 527.26 
+Q 27.2 539.26 39.2 539.26 
+z
+" clip-path="url(#p66225229ac)" style="fill: #eceff4; stroke: #6b7a8f; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 39.2 618.88 
+L 425.2 618.88 
+Q 437.2 618.88 437.2 606.88 
+L 437.2 571.26 
+Q 437.2 559.26 425.2 559.26 
+L 39.2 559.26 
+Q 27.2 559.26 27.2 571.26 
+L 27.2 606.88 
+Q 27.2 618.88 39.2 618.88 
+z
+" clip-path="url(#p66225229ac)" style="fill: #eceff4; stroke: #6b7a8f; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 39.2 734.14 
+L 425.2 734.14 
+Q 437.2 734.14 437.2 722.14 
+L 437.2 650.88 
+Q 437.2 638.88 425.2 638.88 
+L 39.2 638.88 
+Q 27.2 638.88 27.2 650.88 
+L 27.2 722.14 
+Q 27.2 734.14 39.2 734.14 
+z
+" clip-path="url(#p66225229ac)" style="fill: #eceff4; stroke: #6b7a8f; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 39.2 849.4 
+L 425.2 849.4 
+Q 437.2 849.4 437.2 837.4 
+L 437.2 766.14 
+Q 437.2 754.14 425.2 754.14 
+L 39.2 754.14 
+Q 27.2 754.14 27.2 766.14 
+L 27.2 837.4 
+Q 27.2 849.4 39.2 849.4 
+z
+" clip-path="url(#p66225229ac)" style="fill: #eceff4; stroke: #6b7a8f; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 29.2 971.48 
+L 215.2 971.48 
+Q 227.2 971.48 227.2 959.48 
+L 227.2 903.4 
+Q 227.2 891.4 215.2 891.4 
+L 29.2 891.4 
+Q 17.2 891.4 17.2 903.4 
+L 17.2 959.48 
+Q 17.2 971.48 29.2 971.48 
+z
+" clip-path="url(#p66225229ac)" style="fill: #eceff4; stroke: #6b7a8f; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 249.2 971.48 
+L 455.2 971.48 
+Q 467.2 971.48 467.2 959.48 
+L 467.2 903.4 
+Q 467.2 891.4 455.2 891.4 
+L 249.2 891.4 
+Q 237.2 891.4 237.2 903.4 
+L 237.2 959.48 
+Q 237.2 971.48 249.2 971.48 
+z
+" clip-path="url(#p66225229ac)" style="fill: #dfe5ee; stroke: #5e81ac; stroke-width: 2.2; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 232.2 95.32 
+L 232.2 381.7 
+" clip-path="url(#p66225229ac)" style="fill: none; stroke: #4c566a; stroke-width: 2.2"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 232.2 849.4 
+L 232.2 871.4 
+" clip-path="url(#p66225229ac)" style="fill: none; stroke: #4c566a; stroke-width: 2.2"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 122.2 871.4 
+L 352.2 871.4 
+" clip-path="url(#p66225229ac)" style="fill: none; stroke: #4c566a; stroke-width: 2.2"/>
+   </g>
+   <g id="line2d_4">
+    <defs>
+     <path id="mbd0e0ef7fd" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #4c566a"/>
+    </defs>
+    <g clip-path="url(#p66225229ac)">
+     <use xlink:href="#mbd0e0ef7fd" x="232.2" y="871.4" style="fill: #4c566a; stroke: #4c566a"/>
+    </g>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="43.98125" transform="rotate(-0 232.2 43.98125)">Distal pancreatectomy with available CT</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="61.96" transform="rotate(-0 232.2 61.96)">2019–2025: 274 records, 3 duplicates</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 13px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="79.12" transform="rotate(-0 232.2 79.12)">n=271 patients</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="144.26375" transform="rotate(-0 597.2 144.26375)">Excluded, clinical (n=9)</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="160.505" transform="rotate(-0 597.2 160.505)">Completion total pancreatectomy (n=4)</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="176.345" transform="rotate(-0 597.2 176.345)">Appleby procedure (n=3)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="192.185" transform="rotate(-0 597.2 192.185)">Completion pancreatectomy (n=2)</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 232.2 164.66 
+Q 339.7 164.66 444.740325 164.66 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 437.540325 161.06 
+L 444.740325 164.66 
+L 437.540325 168.26 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="244.94375" transform="rotate(-0 597.2 244.94375)">Excluded, imaging (n=11)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="261.185" transform="rotate(-0 597.2 261.185)">Arterial phase only (n=3)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="277.025" transform="rotate(-0 597.2 277.025)">Slice thickness or spacing &gt; 3 mm (n=3)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="292.865" transform="rotate(-0 597.2 292.865)">No preoperative CT available (n=2)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="308.705" transform="rotate(-0 597.2 308.705)">Extreme image noise (n=1)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="324.545" transform="rotate(-0 597.2 324.545)">Stacked acquisition (n=1)</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="597.2" y="340.385" transform="rotate(-0 597.2 340.385)">Unenhanced CT only (n=1)</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 232.2 289.1 
+Q 339.7 289.1 444.740325 289.1 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 437.540325 285.5 
+L 444.740325 289.1 
+L 437.540325 292.7 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 232.2 368.2 
+Q 232.2 375.2 232.2 379.740325 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 235.8 372.540325 
+L 232.2 379.740325 
+L 228.6 372.540325 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="406.889844" transform="rotate(-0 232.2 406.889844)">Patients analyzed</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="425.403125" transform="rotate(-0 232.2 425.403125)">(n=251)</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 232.2 441.82 
+Q 232.2 451.82 232.2 459.360325 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 235.8 452.160325 
+L 232.2 459.360325 
+L 228.6 452.160325 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="486.60125" transform="rotate(-0 232.2 486.60125)">TotalSegmentator pancreas mask</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="505.019961" transform="rotate(-0 232.2 505.019961)">Head-isthmus delineation</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="522.86" transform="rotate(-0 232.2 522.86)">Reviewed in all 251 patients</text>
+   </g>
+   <g id="patch_16">
+    <path d="M 232.2 539.26 
+Q 232.2 549.26 232.2 556.800325 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 235.8 549.600325 
+L 232.2 556.800325 
+L 228.6 549.600325 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="583.949844" transform="rotate(-0 232.2 583.949844)">PyRadiomics extraction</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="602.463125" transform="rotate(-0 232.2 602.463125)">1,316 features, 9 image types</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 232.2 618.88 
+Q 232.2 628.88 232.2 636.420325 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 235.8 629.220325 
+L 232.2 636.420325 
+L 228.6 629.220325 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="663.66125" transform="rotate(-0 232.2 663.66125)">Outcome-blind preprocessing</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="682.083125" transform="rotate(-0 232.2 682.083125)">Technical exclusion of 6 image types: 758 features</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="699.903125" transform="rotate(-0 232.2 699.903125)">ComBat harmonization, refitted on each training set</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="717.723125" transform="rotate(-0 232.2 717.723125)">Unsupervised filtering: 84 features</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 232.2 734.14 
+Q 232.2 744.14 232.2 751.680325 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 235.8 744.480325 
+L 232.2 751.680325 
+L 228.6 744.480325 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="778.928281" transform="rotate(-0 232.2 778.928281)">Stabl selection</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="797.343125" transform="rotate(-0 232.2 797.343125)">Five-feature signature (5-rad)</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="815.159961" transform="rotate(-0 232.2 815.159961)">5 most stable features of 50 runs</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="232.2" y="832.900859" transform="rotate(-0 232.2 832.900859)">number chosen by inner cross-validation</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 122.2 871.4 
+Q 122.2 881.4 122.2 888.940325 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 125.8 881.740325 
+L 122.2 888.940325 
+L 118.6 881.740325 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 352.2 871.4 
+Q 352.2 881.4 352.2 888.940325 
+" style="fill: none; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+    <path d="M 355.8 881.740325 
+L 352.2 888.940325 
+L 348.6 881.740325 
+z
+" style="fill: #4c566a; stroke: #4c566a; stroke-width: 2.2; stroke-linecap: round"/>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="122.2" y="917.1075" transform="rotate(-0 122.2 917.1075)">No CR-POPF</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 14px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="122.2" y="936.3825" transform="rotate(-0 122.2 936.3825)">201 (80.1%)</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 16px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="352.2" y="917.1075" transform="rotate(-0 352.2 917.1075)">CR-POPF</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 14px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="352.2" y="936.3825" transform="rotate(-0 352.2 936.3825)">50 (19.9%)</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 14px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #2e3440" x="352.2" y="954.8625" transform="rotate(-0 352.2 954.8625)">Grade B: 43 | Grade C: 7</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p66225229ac">
+   <rect x="7.2" y="7.2" width="760" height="974.28"/>
+  </clipPath>
+ </defs>
+</svg>
